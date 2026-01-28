@@ -1,72 +1,69 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Altamash+shaikh👨🏻‍💻;" />
-</h1>
+# Hi 👋 I'm Altamash Shaikh
 
-<h3 align="center">A Passionate Devops enginer & </h3>
+🚀 *DevOps Engineer | Cloud & Automation Enthusiast*
 
-<br/>
+---
 
-<div align="center">
- 
- 🌱 I'm Altamash shaikh, a passionate devops enginer , 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:altamashkhaleel19@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-     <img src="https://img.shields.io/badge/YouTube-D71313?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href=<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Altamash+Shaikh+👨🏻‍💻;" />
-</h1>
+## 👨‍💻 About Me
 
-<h3 align="center">A Passionate Full devops enginer</h3>
+- 🔧 Passionate *DevOps Engineer*
+- ☁️ Working with *AWS & Cloud Infrastructure*
+- 🐳 Containerization using *Docker*
+- ☸️ Orchestration with *Kubernetes*
+- 🔄 CI/CD pipelines using *GitHub Actions & Jenkins*
+- 🧱 Infrastructure as Code with *Terraform*
+- 📊 Monitoring with *Prometheus & Grafana*
+- 🌱 Currently learning *DevSecOps & Advanced Kubernetes*
 
-<br/>
+---
 
-<div align="center">
- 
- 🌱 I'm Altamash shaikh, a passionate software developer, crafting sleek Web and Mobile Apps with expertise in React JS, React Native, Next JS 14, Firebase, Node JS, Express JS, MongoDb and more.
+## 🛠️ Tech Stack
 
-⚡ 
-<div align="center"> 
-  <a href="mailto:farzeenaliarif786@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-   
-  <a href="https://www.linkedin.com/in/farzeen-ali-533479204" >
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+### DevOps & Cloud
+- AWS (EC2, S3, IAM, VPC)
+- Docker & Docker Compose
+- Kubernetes
+- Terraform
+- Jenkins
+- GitHub Actions
 
- <hr/>
- 
-<h2 align="center">🚀Languages💥Frameworks💥Tools🚀</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,javascript,express,nodejs,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=css,bootstrap,html,firebase,mongodb,nextjs,mysql,php,laravel" /><br>
-</div>
+### Tools
+- Linux
+- Git & GitHub
+- Nginx
+- Prometheus
+- Grafana
 
-<br/>
-<hr/>
+### Scripting
+- Bash
+- YAML
+- Python (basic)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farzeen-alii&layout=compact&theme=midnight-purple) >
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+---
 
- <hr/>
- 
-<h2 align="center">🚀Languages💥Frameworks💥Tools🚀</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,javascript,express,nodejs,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=css,bootstrap,html,firebase,mongodb,nextjs,mysql,php,laravel" /><br>
-</div>
+## 📂 Projects
 
-<br/>
-<hr/>
+- 🔹 *CI/CD Pipeline with Jenkins*
+- 🔹 *Dockerized Application*
+- 🔹 *Kubernetes Deployment*
+- 🔹 *AWS Infrastructure using Terraform*
 
+---
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Altamash1819&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Altamash1819&layout=compact&theme=radical)
+
+---
+
+## 🤝 Connect With Me
+
+- 📧 Email: your-email@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/your-link  
+- 🐙 GitHub: https://github.com/Altamash1819
+
+---
+
+⭐ Star my repositories if you like my work!
