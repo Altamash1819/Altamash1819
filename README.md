@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Altamash+Shaikh;DevOps+Engineer;Cloud+%7C+CI%2FCD+%7C+Docker+%7C+Kubernetes;Automation+%26+Scalable+Systems" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="420"/>
+</p>
 # Hi 👋 I'm Altamash Shaikh
 
 🚀 *DevOps Engineer | Cloud & Automation Enthusiast*
